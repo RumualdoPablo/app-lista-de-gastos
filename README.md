@@ -15,4 +15,4 @@ Este proyecto fue posible gracias al curso de desarrollo con React y Firebase de
 
 
 Link a la app: 
-(https://gestos-de-gastos-10067.web)
+(https://gestor-de-gastos-10067.web.app)
